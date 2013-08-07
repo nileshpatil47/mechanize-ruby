@@ -1,0 +1,9 @@
+*.swp
+/Gemfile
+/Gemfile.lock
+/TAGS
+/pkg
+/tags
+/.rvmrc
+digest.htpasswd
+doc
